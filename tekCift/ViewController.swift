@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("asd")
         print("asd")
+        print("asdsoneklenen")
         // Do any additional setup after loading the view.
     }
 
